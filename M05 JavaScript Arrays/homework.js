@@ -198,6 +198,8 @@ function breakStatement(num) {
    // la ejecución y retornar el string: "Se interrumpió la ejecución".
    // [PISTA]: utiliza el statement 'break'.
    // Tu código:
+ 
+        
 }
 
 function continueStatement(num) {
